@@ -1,0 +1,7 @@
+{
+  "name": "PawSense AI",
+  "description": "An AI-powered dog breed identifier and companion app featuring breed recognition, specialized care chat, and a curated product store.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
